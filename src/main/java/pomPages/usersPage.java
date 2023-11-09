@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
+//this is method class
 public class usersPage {
 //Declaration
 	@FindBy(xpath = "//h1[normalize-space(text())='Users']")
